@@ -1,5 +1,5 @@
 {
-  "name": "mon-bot-discord",
+  "name": "bot_discord_ai",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -13,8 +13,17 @@
     "@discordjs/voice": "^0.18.0",
     "axios": "^1.7.9",
     "discord-player": "^7.1.0",
-    "discord.js": "^14.17.3",
+    "discord.js": "^14.24.2",
+    "dotenv": "^17.2.3",
     "openai": "^4.80.1",
     "ytdl-core": "^4.11.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alibenaqa/bot_discord_AI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Alibenaqa/bot_discord_AI/issues"
+  },
+  "homepage": "https://github.com/Alibenaqa/bot_discord_AI#readme"
 }
